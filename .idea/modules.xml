@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FLA_AbstractFactory/FLA_AbstractFactory.iml" filepath="$PROJECT_DIR$/FLA_AbstractFactory/FLA_AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLA_Adapter/FLA_Adapter.iml" filepath="$PROJECT_DIR$/FLA_Adapter/FLA_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLA_Builder/FLA_Builder.iml" filepath="$PROJECT_DIR$/FLA_Builder/FLA_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLA_Facade/FLA_Facade.iml" filepath="$PROJECT_DIR$/FLA_Facade/FLA_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLA_Factory/FLA_Factory.iml" filepath="$PROJECT_DIR$/FLA_Factory/FLA_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLA_Iterator/FLA_Iterator.iml" filepath="$PROJECT_DIR$/FLA_Iterator/FLA_Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLA_Mediator/FLA_Mediator.iml" filepath="$PROJECT_DIR$/FLA_Mediator/FLA_Mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLA_Proxy/FLA_Observer/FLA_Observer.iml" filepath="$PROJECT_DIR$/FLA_Proxy/FLA_Observer/FLA_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLA_Prototype/FLA_Prototype.iml" filepath="$PROJECT_DIR$/FLA_Prototype/FLA_Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLA_Proxy/FLA_Proxy.iml" filepath="$PROJECT_DIR$/FLA_Proxy/FLA_Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLA_Singleton/FLA_Singleton.iml" filepath="$PROJECT_DIR$/FLA_Singleton/FLA_Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLA_State/FLA_State.iml" filepath="$PROJECT_DIR$/FLA_State/FLA_State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FLA_State/FLA_Template/FLA_Template.iml" filepath="$PROJECT_DIR$/FLA_State/FLA_Template/FLA_Template.iml" />
+    </modules>
+  </component>
+</project>
